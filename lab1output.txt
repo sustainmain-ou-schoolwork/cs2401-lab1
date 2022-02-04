@@ -1,0 +1,17 @@
+Script started on 2022-01-21 16:56:28-0500
+]0;josh@josh-HP-Notebook: ~/2401/labs/lab1[01;32mjosh@josh-HP-Notebook[00m:[01;34m~/2401/labs/lab1[00m$ ./a.out
+Enter time 1: 1 10
+Enter time 2: 2 20
+Enter scalar: 3
+
+Addition:		3:30
+Subtraction:		1:10
+Multiplication:		3:30
+Division:		0:23
+Time 1 == time 2:	false
+Time 1 < time 2:	true
+Time 1 <= time 2:	true
+]0;josh@josh-HP-Notebook: ~/2401/labs/lab1[01;32mjosh@josh-HP-Notebook[00m:[01;34m~/2401/labs/lab1[00m$ exit
+exit
+
+Script done on 2022-01-21 16:56:40-0500
